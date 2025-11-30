@@ -1,0 +1,14 @@
+.projetos {
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.projetos h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.projetos p {
+  font-size: 1.1rem;
+  color: #cbd5e1;
+}
